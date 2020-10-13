@@ -1,12 +1,12 @@
 [[libknet8]]
-arch = "powerpc64le"
+arch = "ppc64le"
 git-tree-sha1 = "18b3c71252f99ebae868dbea3a930e3cc2d89636"
 os = "linux"
 
    [[libknet8.download]]
    #sha256 = "2c3236f8c83aa00e734ea45a007490b3360bb8da0f419fea4efd724551c43f80"
    sha256 = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-   url = "file:///m100/home/userexternal/jdavid00/knetmods"
+   url = "https://github.com/jdadavid/Knet.jl/releases/download/v1.4.3/libknet8.ppc64le-linux-gnu.tar.gz"
 
 [[libknet8]]
 arch = "x86_64"
