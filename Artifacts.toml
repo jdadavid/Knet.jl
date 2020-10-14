@@ -1,5 +1,5 @@
 [[libknet8]]
-arch = "ppc64le"
+arch = "powerpc64le"
 git-tree-sha1 = "18b3c71252f99ebae868dbea3a930e3cc2d89636"
 os = "linux"
 
